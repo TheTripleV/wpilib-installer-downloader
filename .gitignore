@@ -1,0 +1,5 @@
+bin/
+obj/
+WPILibInstallerDownloader/
+WPILibInstaller-Avalonia/
+.DS_Store
